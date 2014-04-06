@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples
+END
+Smarty_CacheResource_Memcache.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Memcache.html
+END
+Smarty_CacheResource_Apc.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Apc.html
+END
+Smarty_CacheResource_Mysql.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/Smarty_CacheResource_Mysql.html
+END
+_demo---plugins---cacheresource.memcache.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.memcache.php.html
+END
+_demo---plugins---cacheresource.apc.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.apc.php.html
+END
+_demo---plugins---cacheresource.mysql.php.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4756/trunk/development/Smarty3Doc/CacheResource-examples/_demo---plugins---cacheresource.mysql.php.html
+END
